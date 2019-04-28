@@ -17,3 +17,5 @@ Finished in 0.06 seconds
 ```
 
 Should only run one test
+
+Occurs with a Windows 10 PC
